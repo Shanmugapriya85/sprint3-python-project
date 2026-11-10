@@ -1,7 +1,4 @@
-# sprint3-python-project
-Sprint 3 Python Foundations — Video Game Sales Analysis
-readme_text =
-"""
+
 # Project Title: Video Game Sales Analysis
 
 ## Description or Overview
@@ -13,5 +10,4 @@ readme_text =
 ## Methods:
  - Python
 
-"""
-print(readme_text )
+
